@@ -31,7 +31,8 @@ nav {
   grid-template-rows: repeat(3, 10vw);
   font-family: "Roboto", sans-serif;
 }
-.box {
+.box
+ {
   border: 2px solid black;
   font-size: 8vw;
   cursor: pointer;
