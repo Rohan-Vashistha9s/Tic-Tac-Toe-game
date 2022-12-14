@@ -41,7 +41,8 @@ nav {
   justify-content: center;
   align-items: center;
 }
-.box:hover {
+.box:hover
+ {
   background-color: rgb(239, 232, 246);
 }
 .gameInfo {
